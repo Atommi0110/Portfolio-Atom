@@ -1,3 +1,3 @@
-# Project Atom
+# Portfolio Atom
 
-Welcome to Project Atom!
+Welcome to Portfolio Atom!
